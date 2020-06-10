@@ -40,6 +40,19 @@ Run the following command,
 This should install all required packages.
 
 ---
+### How to use
+Open the `index.js` file.
+change the `data` object as per your needs.
+- `contact`
+  Enter the exact name of the contact/group you want to send the message to.
+
+- `message`
+  Enter the message you want to send.
+  
+- `number`
+  Enter the number of times you want to send the message.
+
+---
 ### Run
 Once packages are installed, run the following command to run the code.
 
