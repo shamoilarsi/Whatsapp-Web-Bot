@@ -1,0 +1,22 @@
+{
+  "name": "whatsapp-web-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shamoilarsi/Whatsapp-Web-Bot.git"
+  },
+  "author": "Shamoil Arsiwala",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shamoilarsi/Whatsapp-Web-Bot/issues"
+  },
+  "homepage": "https://github.com/shamoilarsi/Whatsapp-Web-Bot#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  }
+}
