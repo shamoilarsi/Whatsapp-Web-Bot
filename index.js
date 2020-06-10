@@ -1,6 +1,7 @@
 const { Builder, By, Key, until } = require("selenium-webdriver");
+
 const data = {
-  contact: "Meh", // ENTER THE EXACT NAME OF THE CONTACT YPU WANT TO SEND THE MESSAGE TO
+  contact: "Mehasafdf", // ENTER THE EXACT NAME OF THE CONTACT YPU WANT TO SEND THE MESSAGE TO
   message: "Testing", // ENTER THE MESSAGE YOU WANT TO SEND
   number: 1, // ENTER THE NUMBER OF TIMES YOU WANT TO SEND IT
 };
@@ -30,7 +31,7 @@ const main = async (contact, message, number) => {
   );
 
   console.log(
-    "Scan the QR code from your Whatsapp App on your Android or iOS device dickhead"
+    "Scan the QR code from your the Whatsapp App on your Android or iOS device to activate Whatsapp Web"
   );
 
   await getElementAndSendKeysAndEnter(
